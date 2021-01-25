@@ -1,0 +1,1 @@
+# At this time , we focus on Vi (full screen editor),one of the most popular text editor on Unix Systems. In order commands  are: Inserting,Cutting, Pasting, Undoing, Exiting, Beginning Line, End line , and the especial command (100 move to line , 101 delete line), Comand to move cursor to line 32 & to delete teh current and previous line at the same time , respectly
