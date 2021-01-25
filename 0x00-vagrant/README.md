@@ -1,0 +1,1 @@
+# On this project the new students (cohort 14),try to get some knowledge, about Virtual Machines , Ubuntu , git and  github.
