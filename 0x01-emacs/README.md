@@ -1,0 +1,1 @@
+# This project is a little pice of  information to the emac`s functions . In order we have : Opening Command , Saving commando ,Cutting command , Pasting command, Searching command, Udoing command and quitting command. The especial files (100-tetris & 101-doctor), hold in commands to play tetris and talk wit a doctor respectevly.
